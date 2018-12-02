@@ -1,3 +1,2 @@
 # LearningPython
-Learning Python 
-Python Practice Programs for beginner
+Programming Excercise for beginner
