@@ -1,0 +1,12 @@
+This is writing file using Python
+line 1
+line 2
+line 3
+This is writing file using Python
+line 1
+line 2
+line 3
+This is writing file using Python
+line 1
+line 2
+line 3
