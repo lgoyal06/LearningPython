@@ -13,4 +13,4 @@
 1. Use <b>pip</b> script to install any new package like numpy, scipy or sci-kit learn
 2. Open cmd
 3. Type pip install <package_name>
-4. To verify package is installed, open IDLE and type <b> import <package_name>. If no error appears it means all ok
+4. To verify package is installed, open IDLE and type <b> import <package_name> </b>. If no error appears it means all ok
